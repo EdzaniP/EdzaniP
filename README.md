@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Edzani Phundulu</h1>
-<h3 align="center">I'm a Computer Science and Informatics student passionate about solving problems through code. I love working on innovative and practical solutions</h3>
+<h1 align="center">Hi , I'm Edzani Phundulu</h1>
+<h3 align="center">I'm a Computer Science and Informatics graduate and currently a BScHons IT student passionate about solving problems through code. I love working on innovative and practical solutions</h3>
 
 - 📫 How to reach me **edzanidilu@gmail.com**
 
